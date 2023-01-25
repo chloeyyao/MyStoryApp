@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/eFCoqvm' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/chloeyyao/MyStoryApp/blob/main/Kapture%202023-01-25%20at%2016.15.30.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 <!-- Replace this with whatever GIF tool you used! -->
